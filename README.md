@@ -77,7 +77,7 @@ ruth/
 ```powershell
 cd ruth-core
 npm install        # install dependencies (serialport, zod, TypeScript)
-npm run dev        # (planned) start Ruth
+npm run dev        # Ruth Starting...
 ```
 
 ### Fake device (test without hardware)
